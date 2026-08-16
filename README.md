@@ -25,7 +25,13 @@ I'm **Anush Pathak** — Founder of **Likha Parchi**, a graphic designer by craf
 - 🌱 Currently exploring how design + AI agents intersect to automate creative workflows
 - 📍 Based in Nepal · he/him
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</div>
+
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=blink" width="100%"/>
 
 ## 🧊 3D Contribution Graph
 
@@ -37,6 +43,18 @@ I'm **Anush Pathak** — Founder of **Likha Parchi**, a graphic designer by craf
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=blink" width="100%"/>
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anushpathak424&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=blink" width="100%"/>
+
 ## 🛠️ Tech & Design Stack
 
 <div align="center">
@@ -46,6 +64,8 @@ I'm **Anush Pathak** — Founder of **Likha Parchi**, a graphic designer by craf
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=blink" width="100%"/>
 
 ## 📊 GitHub Stats
 

@@ -46,7 +46,7 @@ I'm **Anush Pathak** — Founder of **[Likha Parchi Pvt. Ltd.](https://likhaparc
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=anushpathak424&theme=radical&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-trophies.vercel.app/?username=anushpathak424&theme=radical&row=1&column=6&margin-w=10&margin-h=10" />
 </div>
 
 <br/>

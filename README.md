@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anush%20Pathak&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20Likha%20Parchi%20%7C%20Graphic%20Designer%20%7C%20Tech%20%26%20AI%20Professional&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anush%20Pathak&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20Likha%20Parchi%20%7C%20Graphic%20Designer%20%7C%20Tech%20and%20AI%20Professional&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Founder+%40+Likha+Parchi;Graphic+Designer+%F0%9F%8E%A8;Tech+%26+AI+Professional+%F0%9F%A4%96;Building+agentic+AI+workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Founder+%40+Likha+Parchi;Graphic+Designer+%F0%9F%8E%A8;Tech+and+AI+Professional+%F0%9F%A4%96;Building+agentic+AI+workflows" alt="Typing SVG" />
 
 <br/>
 

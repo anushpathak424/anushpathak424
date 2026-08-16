@@ -46,7 +46,7 @@ I'm **Anush Pathak** — Founder of **[Likha Parchi Pvt. Ltd.](https://likhaparc
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anushpathak424&theme=radical&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=anushpathak424&theme=radical&row=1&column=6&margin-w=10&margin-h=10" />
 </div>
 
 <br/>
@@ -69,8 +69,8 @@ I'm **Anush Pathak** — Founder of **[Likha Parchi Pvt. Ltd.](https://likhaparc
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anushpathak424&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushpathak424&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=anushpathak424&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anushpathak424&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 
 <br/>
 
@@ -78,7 +78,7 @@ I'm **Anush Pathak** — Founder of **[Likha Parchi Pvt. Ltd.](https://likhaparc
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushpathak424&theme=redical&hide_border=true&bg_color=0D1117" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushpathak424&theme=radical&hide_border=true&bg_color=0D1117" width="90%"/>
 
 </div>
 
@@ -96,9 +96,9 @@ I'm **Anush Pathak** — Founder of **[Likha Parchi Pvt. Ltd.](https://likhaparc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anushpathak424&repo=GPT-Image2-Skill&theme=radical&hide_border=true&bg_color=0D1117"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anushpathak424&repo=Agent-Reach&theme=radical&hide_border=true&bg_color=0D1117"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anushpathak424&repo=agentic-awesome-skills&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=anushpathak424&repo=GPT-Image2-Skill&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=anushpathak424&repo=Agent-Reach&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=anushpathak424&repo=agentic-awesome-skills&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
